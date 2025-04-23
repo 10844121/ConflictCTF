@@ -34,4 +34,5 @@ make_flag(
     make_the_list_into_char_list(reverse_the_list(decrease(bob)))
 )
 
+
 print(flag_format)
